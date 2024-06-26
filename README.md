@@ -17,9 +17,12 @@
 
 ## TouchableOpacity:
 
-### Purpose: Provides touchable feedback by reducing the opacity of the button upon press.
-### Usage: Import TouchableOpacity from react-native to wrap components needing touchable behavior.
+### Purpose: Provides touchable feedback by reduc
+![screen 1](https://github.com/Etornam189/rn-assignment5-11333260/assets/149042612/cd2470e4-f9d2-40f4-b81f-03d2276117d7)
+ing the opacity of the button upon press.
+### Usage: Import TouchableOpacity from react-na
+![screen 2](https://github.com/Etornam189/rn-assignment5-11333260/assets/149042612/b99f03d8-203b-4db0-9392-74cdbbd1a8c0)
+tive to wrap components needing touchable behavior.
 
-![This shows my home screen](screen 1.jpeg)
 
-![This shows my settings screen](screen 2.jpeg)
+
